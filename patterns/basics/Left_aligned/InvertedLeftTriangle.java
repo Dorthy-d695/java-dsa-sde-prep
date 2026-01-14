@@ -1,3 +1,12 @@
+// Program to print a Inverted Left Triangle pattern
+// Input: n = 5
+// Output:
+// *****
+// ****
+// ***
+// **
+// *
+
 package Left_aligned;
 
 public class InvertedLeftTriangle {
