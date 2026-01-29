@@ -7,7 +7,7 @@
 //    **
 //     *
     
-package Right_aligned;
+package patterns.basics.Right_aligned;
 
 public class InvertedRightTriangle {
     public static void main(String[] args){
